@@ -1,8 +1,8 @@
 # Advent of Code 2022 | Rust
 
 ## Days
-- :x: https://adventofcode.com/2022/day/1
-- :x: https://adventofcode.com/2022/day/2
+- :heavy_check_mark: https://adventofcode.com/2022/day/1
+- :heavy_check_mark: https://adventofcode.com/2022/day/2
 - :x: https://adventofcode.com/2022/day/3
 - :x: https://adventofcode.com/2022/day/4
 - :x: https://adventofcode.com/2022/day/5
