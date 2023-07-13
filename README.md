@@ -3,7 +3,7 @@
 ## Days
 - :heavy_check_mark: https://adventofcode.com/2022/day/1
 - :heavy_check_mark: https://adventofcode.com/2022/day/2
-- :x: https://adventofcode.com/2022/day/3
+- :heavy_check_mark: https://adventofcode.com/2022/day/3
 - :x: https://adventofcode.com/2022/day/4
 - :x: https://adventofcode.com/2022/day/5
 - :x: https://adventofcode.com/2022/day/6
