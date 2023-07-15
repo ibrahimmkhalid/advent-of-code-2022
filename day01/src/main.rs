@@ -49,7 +49,7 @@ fn run2(input: String) {
 fn qsort(arr: &mut Vec<i32>, lo: usize, hi: usize) {
     if lo < hi {
         let pivot_idx: usize = partition(arr, lo, hi);
-        if pivot_idx > 1 {
+        if pivot_idx >= 1 {
             qsort(arr, lo, pivot_idx);
         }
         qsort(arr, pivot_idx + 1, hi);
