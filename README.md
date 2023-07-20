@@ -5,7 +5,7 @@
 - :heavy_check_mark: https://adventofcode.com/2022/day/2
 - :heavy_check_mark: https://adventofcode.com/2022/day/3
 - :heavy_check_mark: https://adventofcode.com/2022/day/4
-- :x: https://adventofcode.com/2022/day/5
+- :heavy_check_mark: https://adventofcode.com/2022/day/5
 - :x: https://adventofcode.com/2022/day/6
 - :x: https://adventofcode.com/2022/day/7
 - :x: https://adventofcode.com/2022/day/8
